@@ -1,0 +1,11 @@
+Flask>=3.0.0
+flask-cors>=4.0.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+SpeechRecognition>=3.10.0
+web3>=6.0.0
+pytesseract>=0.3.10
+Werkzeug>=3.0.0
+requests>=2.31.0
